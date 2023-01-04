@@ -1,0 +1,12 @@
+{'max_depth': 5, 'min_s_leaf': 2, 'n_est': 200}
+{'max_depth': 4, 'min_s_leaf': 2, 'n_est': 300}
+{'max_depth': 7, 'min_s_leaf': 1, 'n_est': 100}
+{'max_depth': None, 'min_s_leaf': 1, 'n_est': 300}
+{'max_depth': 6, 'min_s_leaf': 2, 'n_est': 100}
+{'max_depth': 4, 'min_s_leaf': 2, 'n_est': 100}
+{'max_depth': 4, 'min_s_leaf': 2, 'n_est': 200}
+{'max_depth': 5, 'min_s_leaf': 2, 'n_est': 100}
+{'max_depth': 6, 'min_s_leaf': 2, 'n_est': 200}
+{'max_depth': None, 'min_s_leaf': 2, 'n_est': 100}
+{'max_depth': None, 'min_s_leaf': 2, 'n_est': 100}
+{'max_depth': None, 'min_s_leaf': 1, 'n_est': 100}

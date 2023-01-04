@@ -1,0 +1,12 @@
+{'n_neighbors': 3}
+{'n_neighbors': 3}
+{'n_neighbors': 3}
+{'n_neighbors': 3}
+{'n_neighbors': 3}
+{'n_neighbors': 3}
+{'n_neighbors': 3}
+{'n_neighbors': 3}
+{'n_neighbors': 3}
+{'n_neighbors': 3}
+{'n_neighbors': 3}
+{'n_neighbors': 3}

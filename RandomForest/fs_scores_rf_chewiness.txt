@@ -1,0 +1,7 @@
+protein 0.41037
+target moisture 1.00000
+moisture 0.02030
+ash 0.00000
+carbs 0.39910
+fat 0.61986
+fiber 0.02019

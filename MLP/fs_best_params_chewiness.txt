@@ -1,0 +1,12 @@
+{'act_fun': 'logistic', 'alpha': 0.1, 'h_layer_size': (3,)}
+{'act_fun': 'relu', 'alpha': 1, 'h_layer_size': (3,)}
+{'act_fun': 'relu', 'alpha': 0, 'h_layer_size': (1,)}
+{'act_fun': 'relu', 'alpha': 10, 'h_layer_size': (2,)}
+{'act_fun': 'tanh', 'alpha': 1, 'h_layer_size': (5,)}
+{'act_fun': 'tanh', 'alpha': 1, 'h_layer_size': (3,)}
+{'act_fun': 'logistic', 'alpha': 1, 'h_layer_size': (3,)}
+{'act_fun': 'tanh', 'alpha': 1, 'h_layer_size': (3,)}
+{'act_fun': 'logistic', 'alpha': 1, 'h_layer_size': (3,)}
+{'act_fun': 'tanh', 'alpha': 1, 'h_layer_size': (4,)}
+{'act_fun': 'relu', 'alpha': 10, 'h_layer_size': (4,)}
+{'act_fun': 'tanh', 'alpha': 1, 'h_layer_size': (5,)}

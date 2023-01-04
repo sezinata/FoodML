@@ -1,0 +1,12 @@
+{'activation': 'relu', 'alpha': 10, 'hidden_layer_sizes': (3,)}
+{'activation': 'tanh', 'alpha': 1, 'hidden_layer_sizes': (5,)}
+{'activation': 'tanh', 'alpha': 0.01, 'hidden_layer_sizes': (2,)}
+{'activation': 'relu', 'alpha': 1, 'hidden_layer_sizes': (3,)}
+{'activation': 'tanh', 'alpha': 1, 'hidden_layer_sizes': (2,)}
+{'activation': 'tanh', 'alpha': 1, 'hidden_layer_sizes': (2,)}
+{'activation': 'tanh', 'alpha': 1, 'hidden_layer_sizes': (2,)}
+{'activation': 'tanh', 'alpha': 1, 'hidden_layer_sizes': (3,)}
+{'activation': 'logistic', 'alpha': 0.01, 'hidden_layer_sizes': (4,)}
+{'activation': 'logistic', 'alpha': 0.1, 'hidden_layer_sizes': (4,)}
+{'activation': 'tanh', 'alpha': 1, 'hidden_layer_sizes': (2,)}
+{'activation': 'logistic', 'alpha': 0.01, 'hidden_layer_sizes': (5,)}
